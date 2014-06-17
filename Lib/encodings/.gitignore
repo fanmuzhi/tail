@@ -1,0 +1,9 @@
+/__init__.pyc
+/aliases.pyc
+/ascii.pyc
+/cp1252.pyc
+/gbk.pyc
+/hex_codec.pyc
+/mbcs.pyc
+/string_escape.pyc
+/utf_8.pyc
